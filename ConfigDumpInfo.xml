@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
+	<ConfigVersions>
+		<Metadata name="Catalog.Контрагенты" id="c0a8f29b-d54f-4c26-9dea-96809edece34" configVersion="c7abfdd4269efc47b3fe50d59260158700000000">
+			<Metadata name="Catalog.Контрагенты.Attribute.КПП" id="4f609107-7d5c-4e1d-bbc6-499e3b94976b"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ЮридическоеФизическоеЛицо" id="551b9906-9978-457c-ae73-a84b29923430"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ИНН" id="7758f7cd-ce67-4805-8ae6-cd68e7a32e67"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ЮридическийАдрес" id="cb89110d-cd07-4d6e-917a-167d9fafd0a0"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ПолноеНаименование" id="e111c147-cafb-4781-9a38-bb3b092b0ebd"/>
+			<Metadata name="Catalog.Контрагенты.Attribute.ПочтовыйАдрес" id="fe9b557d-ca0c-4ea8-8650-d29e3401a7a4"/>
+		</Metadata>
+		<Metadata name="Catalog.Сотрудники" id="8ceb8443-580e-4c45-8fbd-a302dea2efdc" configVersion="5a1415da01051f4692153a34fa81a6f100000000">
+			<Metadata name="Catalog.Сотрудники.Attribute.СтавкаЧаса" id="7d9a87e5-3abd-45b0-8d81-5654a2741bf2"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Оклад" id="cafc8621-954c-44ba-bb3e-121ea43b1ae7"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Email" id="cc801030-7055-4381-a574-f56d46f3fa74"/>
+			<Metadata name="Catalog.Сотрудники.Attribute.Телефон" id="cf0ebd48-6f6a-4a14-bb16-87a3ce1fd5e6"/>
+		</Metadata>
+		<Metadata name="CommonPicture.МетаданныеСправочники" id="ccf6e1e8-4e70-4688-81d0-667cd70072be" configVersion="ea069c9554d73440a96389b312fe70d700000000"/>
+		<Metadata name="CommonPicture.МетаданныеСправочники.Picture" id="ccf6e1e8-4e70-4688-81d0-667cd70072be.0" configVersion="e1536789d2e34e4b83ce46ae21abb0e700000000"/>
+		<Metadata name="Configuration.УправлениеИТФирмой" id="e1be9fc6-ee78-4d69-8a02-d7542b10959f" configVersion="ffdad8e9c9b09c4881c6332b0160816500000000"/>
+		<Metadata name="Configuration.УправлениеИТФирмой.Logo" id="0dabde75-238b-48e9-9829-7d4e30d28009.1" configVersion="a80728f35e298345a00be28f2692e97d00000000"/>
+		<Metadata name="Configuration.УправлениеИТФирмой.Splash" id="0dabde75-238b-48e9-9829-7d4e30d28009.2" configVersion="2d85ae1dc6b272478b7aed6b0c998ac200000000"/>
+		<Metadata name="Constant.ВестиРасчетЗарплаты" id="533d6f93-04b0-4613-a883-87e4039f3aaf" configVersion="cf39dead9492554e832e34a24b012ba000000000"/>
+		<Metadata name="DefinedType.Сумма" id="4bb2323c-e965-402f-bd1f-f433c081137a" configVersion="4df7c9891ee0d546914f54fa39f84cc700000000"/>
+		<Metadata name="Enum.ЮридическоеФизическоеЛицо" id="4ac9efbe-0199-4e08-931f-95de9123491d" configVersion="f31a982d63a95c478d9fab76325d8f0d00000000">
+			<Metadata name="Enum.ЮридическоеФизическоеЛицо.EnumValue.ЮридическоеЛицо" id="243aaf4e-d59f-4465-98f1-e6ea322edf8f"/>
+			<Metadata name="Enum.ЮридическоеФизическоеЛицо.EnumValue.ФизическоеЛицо" id="882e1d6f-f041-4598-8867-c2004e4b3fd1"/>
+		</Metadata>
+		<Metadata name="FunctionalOption.ВестиРасчетЗарплаты" id="181ba87e-2f9e-4607-b74e-44982e054604" configVersion="2a0dcdf7d35cdd4682aa6dc23524153100000000"/>
+		<Metadata name="Language.Русский" id="b4098269-9947-4169-bf1e-c089ca102304" configVersion="38832e892fa4f24e9fd8b68ac23b758b00000000"/>
+		<Metadata name="Subsystem.Контрагенты" id="78f0d8f6-1df9-412c-afba-5521c68269c0" configVersion="4d493f9a0d41ca4ba718ab0677b84d6d00000000"/>
+		<Metadata name="Subsystem.Справочники" id="9b20cfb7-8c4c-479c-9909-e4be58d78227" configVersion="d277ef04adac984892c45b63b021a52400000000"/>
+		<Metadata name="Subsystem.Справочники.Subsystem.Контрагенты" id="31673ca8-1c54-461f-b15a-939c9184ea71" configVersion="0b1f4903cba1114d90bf17d53db6152600000000"/>
+		<Metadata name="Subsystem.Справочники.Subsystem.Сотрудники" id="d013ace3-8c73-46a9-bb41-eb1a149b8448" configVersion="1d8e56626586984fbfa45f49986f114300000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
